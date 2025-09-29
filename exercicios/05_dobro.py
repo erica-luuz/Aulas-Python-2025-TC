@@ -5,3 +5,4 @@ numero = int(numero)
 dobro = numero * 2
 
 print("O dobro de:", numero, "é:", dobro)
+print(numero, " x 2 =", dobro)

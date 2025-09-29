@@ -1,4 +1,5 @@
-# Crie yma história simpes.
+#%%
+# Crie uma história simpes.
 # Adicione essa historia em um programa.
 # A cada programa, a história deve aguardar o usuario apertar "enter" para dar continuidade.
 p1 = "Era uma vez"
